@@ -1,0 +1,15 @@
+/* 536 */
+@media all and (max-width: 536px){
+    .inner-width{
+        display: block;
+    }    
+    .num{
+        font-size: 70px;
+    }
+    .col{
+        font-size: 40px;
+    }
+    .col i{
+        font-size: 60px;
+    }
+}

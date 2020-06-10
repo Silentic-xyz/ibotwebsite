@@ -1,0 +1,25 @@
+.counting-sec{
+    padding: 40px 0;
+    width: 100%;
+    background: linear-gradient(90deg, #3867d6, #45aaf2);
+}
+.inner-width{
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+}
+.col{
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.num{
+    font-size: 40px;
+    margin: 20px 0;
+}
+.col i{
+    font-size: 40px;
+    color: #333;
+}
